@@ -22,6 +22,7 @@
     "url": "https://github.com/rafifos/proffy/issues"
   },
   "scripts": {
+    "postinstall": "patch-package",
     "start": "snowpack dev",
     "build": "snowpack build",
     "test": "jest",
@@ -45,6 +46,7 @@
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-react": "^7.20.5",
     "jest": "^25.4.0",
+    "patch-package": "^6.2.2",
     "prettier": "^2.0.5",
     "snowpack": "^2.7.5",
     "typescript": "^3.9.7"
