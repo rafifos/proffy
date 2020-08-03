@@ -1,10 +1,8 @@
 # ![Proffy](assets/logo.png)
 
-Proffy é a sua plataforma de estudos on-line!
+## Environment setup
 
-# Environment setup
-
-## Requirements
+### Requirements
 
 - Node.js (12.x)
 - Lerna
