@@ -1,0 +1,27 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Interface web do Proffy",
+  "keywords": [
+    "react",
+    "docker",
+    "nlw",
+    "nlw-proffy",
+    "rocketseat",
+    "rocketseat-nlw"
+  ],
+  "author": "Rafael Julio <hello.rjulio@gmail.com>",
+  "homepage": "https://github.com/rafifos/proffy#readme",
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rafifos/proffy.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/rafifos/proffy/issues"
+  }
+}
