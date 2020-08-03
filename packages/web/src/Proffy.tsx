@@ -1,6 +1,6 @@
 import React from 'react';
 
-function App(): any {
+function Proffy(): any {
   return (
     <div className="App">
       <h1>Hello world!</h1>
@@ -8,4 +8,4 @@ function App(): any {
   );
 }
 
-export default App;
+export default Proffy;
