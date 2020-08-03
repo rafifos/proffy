@@ -2,6 +2,8 @@
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
+This project's Mockup is available [here](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web).
+
 ## Available Scripts
 
 ### npm start

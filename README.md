@@ -2,6 +2,8 @@
 
 ## Environment setup
 
+See [this Notion document](https://www.notion.so/Configurando-Ambiente-NLW-98a471ad3cb6448284b8ceed31c45767) for detailed instructions. Only available in pt-BR.
+
 ### Requirements
 
 - Node.js (12.x)
