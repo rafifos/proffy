@@ -1,12 +1,12 @@
 import React from 'react';
-import Landing from './pages/landing';
+import Routes from './routes';
 
 import './assets/styles/global.css';
 
-const Proffy: React.FunctionComponent = () => {
+const Proffy: React.FC = () => {
   return (
     <div className="App">
-      <Landing />
+      <Routes />
     </div>
   );
 };
