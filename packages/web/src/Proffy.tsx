@@ -1,6 +1,7 @@
 import React from 'react';
 
-function Proffy(): any {
+// eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
+function Proffy() {
   return (
     <div className="App">
       <h1>Hello world!</h1>
