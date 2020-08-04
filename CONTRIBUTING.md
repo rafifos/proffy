@@ -2,7 +2,7 @@
 
 ## If you didn't contribute already
 
-This is a **personal** project for learning purposes.
+This is a **personal** project for learning purposes, you shouldn't
 
 ## If you did...
 
