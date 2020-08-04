@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "name": "Root",
+      "path": ".."
+    },
+    {
+      "name": "Web",
+      "path": "../packages/web"
+    }
+  ],
+  "settings": {
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "typescript": "typescriptreact"
+    },
+    "emmet.syntaxProfiles": { "javascript": "jsx", "typescript": "tsx" }
+  }
+}
