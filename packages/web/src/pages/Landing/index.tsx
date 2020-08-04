@@ -1,15 +1,15 @@
 import React from 'react';
 
-import logoImg from '../../assets/images/logo.svg';
-import landingImg from '../../assets/images/landing.svg';
-
-import studyIcon from '../../assets/images/icons/study.svg';
 import giveClassesIcon from '../../assets/images/icons/give-classes.svg';
 import purpleHeartIcon from '../../assets/images/icons/purple-heart.svg';
+import studyIcon from '../../assets/images/icons/study.svg';
+
+import landingImg from '../../assets/images/landing.svg';
+import logoImg from '../../assets/images/logo.svg';
 
 import './styles.css';
 
-const Landing: React.FunctionComponent = () => {
+const Landing: React.FC = () => {
   return (
     <div id="page-landing">
       <div id="page-landing-content" className="container">
@@ -25,12 +25,12 @@ const Landing: React.FunctionComponent = () => {
         />
 
         <div className="buttons-container">
-          <a href="" className="study">
+          <a href="/study" className="study">
             <img src={studyIcon} alt="Estudar" />
             Estudar
           </a>
 
-          <a href="" className="give-classes">
+          <a href="/give-classes" className="give-classes">
             <img src={giveClassesIcon} alt="Dar aulas" />
             Dar aulas
           </a>
