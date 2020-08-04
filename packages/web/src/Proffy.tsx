@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './assets/styles/global.css';
+
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 function Proffy() {
   return (
