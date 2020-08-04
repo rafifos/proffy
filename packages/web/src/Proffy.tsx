@@ -1,14 +1,14 @@
 import React from 'react';
+import Landing from './pages/landing';
 
 import './assets/styles/global.css';
 
-// eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
-function Proffy() {
+const Proffy: React.FunctionComponent = () => {
   return (
     <div className="App">
-      <h1>Hello world!</h1>
+      <Landing />
     </div>
   );
-}
+};
 
 export default Proffy;
