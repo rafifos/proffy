@@ -4,7 +4,7 @@
 
 This project's Mockup is available [here](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web).
 
-## Differences between us and NLW's implementations
+## Differences between us and NLW's implementation
 
 - We're using [create-snowpack-app](https://github.com/pikapkg/create-snowpack-app) instead of CRA
 - ESLint + Prettier
